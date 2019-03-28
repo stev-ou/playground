@@ -1,2 +1,2 @@
-# playground
-Experimental and exploratory code
+# STEV Playground
+Experimental and exploratory code, mostly ipynb's.
